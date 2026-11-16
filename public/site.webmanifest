@@ -1,0 +1,17 @@
+{
+  "name": "Dairy Power",
+  "short_name": "Dairy Power",
+  "description": "Dairy products manufacturer and B2B dairy supplier from Nashik, Maharashtra.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "/images/logo/dairy-power-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

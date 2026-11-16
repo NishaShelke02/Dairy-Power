@@ -1,0 +1,13 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@import 'tw-animate-css';
+
+@theme {
+  /* Dairy Power Brand Colors */
+  --color-brand-emerald: #047857;
+  --color-brand-emerald-light: #059669;
+  --color-brand-amber: #f59e0b;
+  --color-brand-stone-dark: #1c1917;
+  --color-brand-stone-blue: #292524;
+}
